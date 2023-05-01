@@ -3,12 +3,12 @@
 </div>
 
 <div id="badges" align="center">
-  <h3 class="text">CodeWars:</h2>
-  <a target="_blank" href="https://www.codewars.com/users/JonnyRiver"><img src="https://www.codewars.com/users/JonnyRiver/badges/small" alt="codewars badge small" /></a>
-  <h3 class="text">LinkedIn:</h2>
+  <h3 class="text">LinkedIn:</h3>
   <a href="https://www.linkedin.com/in/JonnyRiver/">
   <img border=250px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-<!--   <h3 class="text">Personal Website:</h2>
+ <h3 class="text">CodeWars:</h3>
+  <a target="_blank" href="https://www.codewars.com/users/JonnyRiver"><img src="https://www.codewars.com/users/JonnyRiver/badges/small" alt="codewars badge small" /></a>
+  <!--   <h3 class="text">Personal Website:</h3>
   <a href="[link to personal website]">
   <img src="personal website link" alt="Personal Website"/>
   </a> -->
@@ -18,7 +18,7 @@
   <ul>
     <li> 🪄 I'm a Full Stack Web Developer graduate trying to transition into the tech world.</li>
     <li> 💻 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies</li>    
-    <li> 🤓 I'm actively looking for new opportunities to utilize my proficiencies in software development</li>
+    <li> 🤓 I'm actively looking for new opportunities to utilize my skills in software development</li>
     <li> 📚 I am currently working on advancing my JavaScript, React, and python skills</li>
     <li> 🏕 Fun Fact: I can fix almost anything on a car. </li>
   </ul>
