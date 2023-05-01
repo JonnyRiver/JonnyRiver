@@ -9,7 +9,7 @@
  <h3 class="text">CodeWars:</h3>
   <a target="_blank" href="https://www.codewars.com/users/JonnyRiver"><img src="https://www.codewars.com/users/JonnyRiver/badges/small" alt="codewars badge small" /></a>
   <h3 class="text">HackerRank:</h3>
-    <a href="https://www.hackerrank.com/jonnyriver6"><img src="![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" alt="hackerrank"/>
+    <a href="https://www.hackerrank.com/jonnyriver6"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/>
   
   
 <div id="bio" align="left">
