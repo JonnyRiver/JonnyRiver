@@ -1,4 +1,6 @@
 ### Hello World, my name is Jonathan Martin. 👋
+[readmepic.pdf](https://github.com/JonnyRiver/JonnyRiver/files/11365566/readmepic.pdf)
+
 
 
 - 🔭 I’m currently working on ...
