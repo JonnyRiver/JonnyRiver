@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <h3 class="text">LinkedIn:</h3>
-  <a href="https://www.linkedin.com/in/JonnyRiver/">
+  <a href="https://www.linkedin.com/in/jonathan-martin90/">
   <img border=250px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
  <h3 class="text">CodeWars:</h3>
   <a target="_blank" href="https://www.codewars.com/users/JonnyRiver"><img src="https://www.codewars.com/users/JonnyRiver/badges/small" alt="codewars badge small" /></a>
