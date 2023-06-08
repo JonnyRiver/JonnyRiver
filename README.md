@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hello World! My name is Jonathan Martin;</h1>
+  <h1>Hello World! My name is Jonathan Martin.</h1>
 </div>
 
 <div id="badges" align="center">
